@@ -1,0 +1,15 @@
+# core agents + Azure OpenAI
+openai-agents
+openai
+python-dotenv
+
+# Streaming agent backend
+flask
+flask-cors
+
+# notebooks (Langchain_langgraph)
+langchain
+langchain-community
+langchain-openai
+langgraph
+notebook

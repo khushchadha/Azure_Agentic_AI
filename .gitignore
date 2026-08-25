@@ -1,1 +1,23 @@
+# secrets
 .env
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+# logs
+logs/
+*.log
+
+# notebooks
+.ipynb_checkpoints/
+
+# editors / os
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
